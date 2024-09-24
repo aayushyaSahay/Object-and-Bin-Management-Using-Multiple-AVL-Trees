@@ -85,7 +85,6 @@ The **Galactic Cargo Management System (GCMS)** is a solution to efficiently man
 
 3. Run the system:
    ```bash
-   Copy code
    python main.py
    ```
 4. Observe progress and test outputs. The system will compare the GCMS and StupidGCMS implementations, verifying that both work correctly.
