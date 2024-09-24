@@ -80,6 +80,7 @@ The **Galactic Cargo Management System (GCMS)** is a solution to efficiently man
    ```bash
    git clone <repository-link>
    cd <repository-folder>
+   ```
 2. Make sure you have Python 3 installed.
 
 3. Run the system:
