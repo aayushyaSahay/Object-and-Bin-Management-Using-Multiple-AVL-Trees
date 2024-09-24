@@ -92,7 +92,6 @@ The **Galactic Cargo Management System (GCMS)** is a solution to efficiently man
 ## Example Usage
 ### Adding Bins
   ```python
-  Copy code
   gcms.add_bin(1, 100)
   gcms.add_bin(2, 150)
   ```
@@ -107,7 +106,7 @@ The **Galactic Cargo Management System (GCMS)** is a solution to efficiently man
   ```
 ### Deleting an Object
   ```python
-    gcms.delete_object(101)
+  gcms.delete_object(101)
   ```
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
